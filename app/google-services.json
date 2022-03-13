@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "821947785247",
+    "project_id": "crudapp-998f2",
+    "storage_bucket": "crudapp-998f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821947785247:android:2511d1d9efb91065f0352a",
+        "android_client_info": {
+          "package_name": "com.ivanvemat.crudapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821947785247-sgcrqncum9usdoqok9np8s1prne7v175.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ivanvemat.crudapp",
+            "certificate_hash": "164e907c9245e665111989d67ba2629657d222f4"
+          }
+        },
+        {
+          "client_id": "821947785247-c4j52rpbkafofgq6rl5ulpe7lri70rap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrLJCyUHDq90Jkdgu06CFdf62AawyqYdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821947785247-c4j52rpbkafofgq6rl5ulpe7lri70rap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
